@@ -1,4 +1,4 @@
-package com.practice.examples;
+package com.practice.examples
 //Master branch
 import java.util.HashMap;
 import java.util.HashSet;
